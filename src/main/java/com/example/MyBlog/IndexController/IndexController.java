@@ -15,6 +15,8 @@ import com.example.MyBlog.model.UserDetails;
 @Controller
 public class IndexController {
 	
+	//Index Controller
+	
 	@Autowired
 	UserDAO userdao;
 	
