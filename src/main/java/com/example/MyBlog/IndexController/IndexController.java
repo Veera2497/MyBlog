@@ -15,7 +15,7 @@ import com.example.MyBlog.model.UserDetails;
 @Controller
 public class IndexController {
 	
-	//Index Controller
+	//Index Controller will display respective url
 	
 	@Autowired
 	UserDAO userdao;
